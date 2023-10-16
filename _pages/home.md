@@ -43,7 +43,7 @@ __Centering on "LongLLM,"__ we invite submissions covering various topics, inclu
 <html>
     <div class="team-container">
         <div class="team-member">
-            <img src="/assets/img/organizers/yejin_choi.jpg" alt="Name 1">
+            <img src="/assets/img/speakers/yejin_choi.jpg" alt="Name 1">
             <p><a href="https://homes.cs.washington.edu/~yejin/">Yejin Choi</a>
             <br>University of Washington<br>Allen Institute for AI</p>
         </div>
