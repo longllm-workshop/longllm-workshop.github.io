@@ -96,12 +96,12 @@ Stay tuned! We plan to have two panels to encourage discussion!
             <br>University of California Santa Barbara</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/szymon_tworkowski.jpg" alt="Name 4">
+            <img src="/assets/img/organizers/szymon_tworkowski.jpg" alt="Name 3">
             <p><a href="https://syzymon.github.io/">Szymon Tworkowski</a>
             <br>University of Warsaw</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/yu_wang.jpg" alt="Name 3">
+            <img src="/assets/img/organizers/yu_wang.jpg" alt="Name 4">
             <p><a href="https://yuwang.org/">Yu Wang</a>
             <br>University of California San Diego</p>
         </div>
@@ -123,7 +123,7 @@ Stay tuned! We plan to have two panels to encourage discussion!
             <br>Meta AI</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/julian_mcauley.jpg" alt="Name 2">
+            <img src="/assets/img/organizers/julian_mcauley.png" alt="Name 2">
             <p><a href="https://cseweb.ucsd.edu/~jmcauley/">Julian McAuley</a>
             <br>University of California San Diego</p>
         </div>
