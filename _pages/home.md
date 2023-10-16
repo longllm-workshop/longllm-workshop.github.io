@@ -43,7 +43,7 @@ __Centering on "LongLLM,"__ we invite submissions covering various topics, inclu
 <html>
     <div class="team-container">
         <div class="team-member">
-            <img src="/assets/img/organizers/yejin_choi.jpeg" alt="Name 1">
+            <img src="/assets/img/organizers/yejin_choi.jpg" alt="Name 1">
             <p><a href="https://homes.cs.washington.edu/~yejin/">Yejin Choi</a>
             <br>University of Washington<br>Allen Institute for AI</p>
         </div>
@@ -106,7 +106,7 @@ Stay tuned! We plan to have two panels to encourage discussion!
             <br>University of California San Diego</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/niloofar_mireshghallah.jpeg" alt="Name 5">
+            <img src="/assets/img/organizers/niloofar_mireshghallah.jpg" alt="Name 5">
             <p><a href="https://cseweb.ucsd.edu/~fmireshg/">Niloofar Mireshghallah</a>
             <br>University of Washington</p>
         </div>
