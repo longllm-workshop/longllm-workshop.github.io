@@ -52,12 +52,12 @@ __Centering on "LongLLM,"__ we invite submissions covering various topics, inclu
             <p><a href="https://www.cs.washington.edu/people/faculty/lsz">Luke Zettlemoyer</a>
             <br>University of Washington</p>
         </div>
-        <!-- <div class="team-member">
-            <img src="/assets/img/speakers/omer_levy.jpeg" alt="Name 3">
-            <p><a href="https://www.cs.tau.ac.il/~levyomer/">Omer Levy</a>
-            <br>Tel Aviv University<br>Meta AI</p>
-        </div>
         <div class="team-member">
+            <img src="/assets/img/speakers/yuhuai_wu.jpeg" alt="Name 3">
+            <p><a href="https://yuhuaiwu.github.io/">Yuhuai Wu</a>
+            <br>xAI</p>
+        </div>
+        <!-- <div class="team-member">
             <img src="/assets/img/speakers/sara_hooker.jpg" alt="Name 4">
             <p><a href="https://www.sarahooker.me/">Sara Hooker</a>
             <br>Cohere for AI</p>
