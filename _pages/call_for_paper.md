@@ -17,7 +17,7 @@ To be decided
 <br>
 
 ### Topics of Interest
-
+<br>
 __Centering on "LongLLM,"__ we invite submissions covering various topics, including but not limited to the list below:
 
 * __Novel architecture design of Large Language Models to capture long dependency__: Encoding recurrence into transformer attention, i.e. RetNet, RWKV
