@@ -27,19 +27,19 @@ nav_order: 3
             <br>University of California Santa Barbara</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/szymon_tworkowski.jpg" alt="Name 3">
+            <img src="/assets/img/organizers/niloofar_mireshghallah.jpg" alt="Name 3">
+            <p><a href="https://cseweb.ucsd.edu/~fmireshg/">Fatemeh Mireshghallah</a>
+            <br>University of Washington</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/szymon_tworkowski.jpg" alt="Name 4">
             <p><a href="https://syzymon.github.io/">Szymon Tworkowski</a>
             <br>University of Warsaw</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/yu_wang.jpg" alt="Name 4">
+            <img src="/assets/img/organizers/yu_wang.jpg" alt="Name 5">
             <p><a href="https://yuwang.org/">Yu Wang</a>
             <br>University of California San Diego</p>
-        </div>
-        <div class="team-member">
-            <img src="/assets/img/organizers/niloofar_mireshghallah.jpg" alt="Name 5">
-            <p><a href="https://cseweb.ucsd.edu/~fmireshg/">Niloofar Mireshghallah</a>
-            <br>University of Washington</p>
         </div>
     </div>
 </html>
@@ -62,6 +62,16 @@ nav_order: 3
             <img src="/assets/img/organizers/zhou_yu.jpg" alt="Name 3">
             <p><a href="https://www.cs.columbia.edu/~zhouyu/">Zhou Yu</a>
             <br>Columbia University</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/taylor_berg_kirkpatrick.jpeg" alt="Name 4">
+            <p><a href="https://cseweb.ucsd.edu/~tberg/">Taylor Berg-Kirkpatrick</a>
+            <br>University of California San Diego</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/rogerio_schmidt_feris.webp" alt="Name 5">
+            <p><a href="https://cseweb.ucsd.edu/~tberg/">Rogerio Schmidt Feris</a>
+            <br>MIT-IBM Watson AI lab</p>
         </div>
     </div>
 </html>
@@ -100,7 +110,7 @@ nav_order: 3
 
 .team-member img {
   object-fit: cover;
-  border-radius:50%;
+  border-radius:100%;
   width: 150px;
   height: 150px;
   padding: 10px;

@@ -7,38 +7,51 @@ nav_order: 1
 ---
 
 <br>
-Large language models are increasingly pivotal in a range of real-world applications. Typically, these models are pre-trained on vast data, but their vision is confined by a specific context window, constraining their modeling capability on longer data dependencies. Enhancing their capacity to longer dependency is not trivial: expanding the modeling window during pre-training can be resource-intensive, and adjusting it during continuous downstream training can be a challenging task.
+Large language models are increasingly pivotal in a range of real-world applications. While these models are often pre-trained on extensive datasets, they are limited by a specific context window, hindering their ability to model longer data dependencies.  Enhancing their capacity to longer dependency is not trivial: expanding the modeling window during pre-training can be resource-intensive, and adjusting it during continuous downstream training can be a challenging task.
 
-However, efficiently enabling language models’s ability to model larger contexts is important. Such advancements could facilitate richer interactions with the model through expanded prompt examples, enhancing in-context learning; improve the comprehensiveness of LM-based chatbots by understanding extensive user interactions or maintaining a more extended user interaction history; offer high-quality summaries of lengthy documents, alleviating human efforts in reading extensive texts; and provide valuable insights in sectors like healthcare, where capturing a broader context (like a patient's extensive visit logs) can paint a comprehensive picture of their health.
+However,enhancing a language model's capacity to efficiently handle larger contexts is crucial. Such advancements could facilitate richer interactions with the model through expanded prompt examples, enhancing in-context learning; improve the comprehensiveness of LM-based chatbots by understanding extensive user interactions or maintaining a more extended user interaction history; offer high-quality summaries of lengthy documents, alleviating human efforts in reading extensive texts; and provide valuable insights in sectors like healthcare, where capturing a broader context (like a patient's extensive visit logs) can paint a comprehensive picture of their health.
 
-Compared with these clear advantages, efforts to extend the modeling capacities of language models have been sparse, especially for large-scale models with billion-level parameters. The primary objective of LongLLM is to bridge this gap, fostering discussions and collaboration around the challenge of modeling longer contexts. We aim to provide a venue that encourages creations on building long-context LLM, formulating related tasks, and designing evaluation criterion and benchmarking. LongLLM focuses on several fundamental questions:
+Compared with these clear advantages, efforts to extend the modeling capacities of language models have been sparse, especially for large-scale models with billion-level parameters. The primary objective of LongLLM is to bridge this gap, fostering discussions and collaboration around the challenge of modeling longer contexts. We aim to provide a venue that encourages creations on building long-context LLM, formulating related tasks, and designing evaluation criterion and benchmarking.  LongLLM focuses on several fundamental questions related but not limited to:
 
 - Innovative Design: How can we design strategies for designing language models with an extended input window through novel training algorithms or model architectures?
 - Extension of Existing Models: How to expand the modeling window of current language models, either with augmentation or representation learning?
-Efficiency and Sustainability: How to create long-context LLMs that are both efficient and environmentally friendly, maximizing results with minimal computational costs?
+- Efficiency and Sustainability: How to create long-context LLMs that are both efficient and environmentally friendly, maximizing results with minimal computational costs?
 - Accessibility: How to develop long-context LLMs that are feasible for various scales of research environments, e.g., lower the entrance of its research in academia?
 - Formulations: What are the real-world scenarios where an extended modeling window is advantageous and how to standardize setups or formulate the tasks?
 - Evaluation: How to evaluate a long-context LLM, determine the metrics or benchmark? 
 - Safety Measures: What guardrails need to be implemented if extensive large-scale data is fed into the models?
 
-LongLLM 2024 aims to unite researchers and practitioners from varied disciplines, to spotlight the vast potential of long-context language models in revolutionizing real-world applications. This goal is also reflected in our diverse pool of accomplished speakers and panelists to foster dedicated in-depth discussion on the subject. We expect participation from a wide range of ML fields such as distributed training, optimization, machine learning system, efficiency, along with NLP researchers with interests in language modeling, dialogue system, knowledge retrieval, representation learning, or real-world applications such as recommendations, therapy, e-commerce, and social good.
+LongLLM aims to unite researchers and practitioners from varied disciplines, to spotlight the vast potential of long-context language models in revolutionizing real-world applications. This goal is also reflected in our diverse pool of accomplished speakers and panelists to foster dedicated in-depth discussion on the subject. We expect participation from a wide range of ML fields such as distributed training, optimization, machine learning system, efficiency, along with NLP researchers with interests in language modeling, dialogue system, knowledge retrieval, representation learning, or real-world applications such as recommendations, therapy, e-commerce, and social good.
 
 
 __Centering on "LongLLM,"__ we invite submissions covering various topics, including but not limited to the list below:
 
-* __Novel architecture design of Large Language Models to capture long dependency__: Encoding recurrence into transformer attention, i.e. RetNet, RWKV
-* __Efficient training methods for Large Language Models to attend on long context__: x-formers, variants of efficient attentions
-* __Embedding-based methods for Large Language Model pre-training on long context dependency__: positional embeddings to fit longer input, i.e. Alibi, RoPE
-* __Resources and Evaluations__: long-context corpus on language modeling and understanding; evaluation metrics over performance and trustworthiness; long-context benchmarks for evaluting long-context Large Langauge Models
-* __Hardware-aware Optimiation__: Machine Learning System methods for improving attention efficiency, i.e. Flash Attention, Paged Attention
-* __Augmentation-based language models__: Long-context language modeling with memory/cache augmentation; combining long-context with retrieval
-* __Others__: Other innovative methods for long-context Large Language Models, Position papers such as on fairness, accountability, transparency, and ethics for AI with social influence capabilities
+* __Novel architecture design of Large Language Models to capture long dependency__:
+    * Encoding recurrence into transformer attention, e.g., RetNet, RWKV
+* __Efficient training methods for Large Language Models to attend on long context__: 
+    * X-formers
+    * Variants of efficient attentions
+* __Embedding-based methods for Large Language Model pre-training on long context dependency__: 
+    * Positional embeddings to fit longer input, i.e. Alibi, RoPE
+* __Resources and Evaluations__: 
+    * Long-context corpus on language modeling and understanding
+    * Evaluation metrics over performance and trustworthiness 
+    * Long-context benchmarks for evaluting long-context LLMs
+* __Hardware-aware optimiation__: 
+    * Machine Learning System methods for improving attention efficiency, i.e. Flash Attention, Paged Attention
+* __Augmentation-based language models__: 
+    * Long-context language modeling with memory or cache augmentation
+    * Combining long-context with retrieval, e.g., KNN-transformer
+* __Others__: 
+    * Other innovative methods for long-context LLMs
+    * Survey papers that systematically summarize existing research
+    * Position papers such as on fairness, accountability, transparency, and ethics for AI with social influence capabilities
 
 
 <br>
 
-## Speakers
-
+## Speakers and Panelists
+We intend to hold 5 talks and 1 panel session. Please stay tuned!
 
 <html>
     <div class="team-container">
@@ -76,10 +89,6 @@ __Centering on "LongLLM,"__ we invite submissions covering various topics, inclu
 </html>
 
 
-## Panelists
-
-Stay tuned! We plan to have two panels to encourage discussion!
-
 <br>
 
 ## Organizers
@@ -96,19 +105,19 @@ Stay tuned! We plan to have two panels to encourage discussion!
             <br>University of California Santa Barbara</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/szymon_tworkowski.jpg" alt="Name 3">
+            <img src="/assets/img/organizers/niloofar_mireshghallah.jpg" alt="Name 3">
+            <p><a href="https://cseweb.ucsd.edu/~fmireshg/">Fatemeh Mireshghallah</a>
+            <br>University of Washington</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/szymon_tworkowski.jpg" alt="Name 4">
             <p><a href="https://syzymon.github.io/">Szymon Tworkowski</a>
             <br>University of Warsaw</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/yu_wang.jpg" alt="Name 4">
+            <img src="/assets/img/organizers/yu_wang.jpg" alt="Name 5">
             <p><a href="https://yuwang.org/">Yu Wang</a>
             <br>University of California San Diego</p>
-        </div>
-        <div class="team-member">
-            <img src="/assets/img/organizers/niloofar_mireshghallah.jpg" alt="Name 5">
-            <p><a href="https://cseweb.ucsd.edu/~fmireshg/">Niloofar Mireshghallah</a>
-            <br>University of Washington</p>
         </div>
     </div>
 </html>
@@ -131,6 +140,16 @@ Stay tuned! We plan to have two panels to encourage discussion!
             <img src="/assets/img/organizers/zhou_yu.jpg" alt="Name 3">
             <p><a href="https://www.cs.columbia.edu/~zhouyu/">Zhou Yu</a>
             <br>Columbia University</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/taylor_berg_kirkpatrick.jpeg" alt="Name 4">
+            <p><a href="https://cseweb.ucsd.edu/~tberg/">Taylor Berg-Kirkpatrick</a>
+            <br>University of California San Diego</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/rogerio_schmidt_feris.webp" alt="Name 5">
+            <p><a href="https://cseweb.ucsd.edu/~tberg/">Rogerio Schmidt Feris</a>
+            <br>MIT-IBM Watson AI lab</p>
         </div>
     </div>
 </html>
@@ -174,7 +193,7 @@ Stay tuned! We plan to have two panels to encourage discussion!
 
 .team-member img {
   object-fit: cover;
-  border-radius:50%;
+  border-radius:100%;
   width: 150px;
   height: 150px;
   padding: 10px;
