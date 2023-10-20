@@ -118,13 +118,7 @@ We intend to hold 5 talks and 1 panel session. Please stay tuned!
             <p><a href="https://yuwang.org/">Yu Wang</a>
             <br>University of California San Diego</p>
         </div>
-    </div>
-</html>
-
-## Steering Committee
-
-<html>
-    <div class="team-container">
+        <br>
         <div class="team-member">
             <img src="/assets/img/organizers/yuandong_tian.png" alt="Name 1">
             <p><a href="https://yuandong-tian.com/">Yuandong Tian</a>
