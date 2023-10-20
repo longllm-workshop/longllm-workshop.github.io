@@ -6,7 +6,6 @@ title: <h3  align="center">Workshop on Long-Context Large Language Model</h3>
 nav_order: 1
 ---
 
-<br>
 Large language models are increasingly pivotal in a range of real-world applications. While these models are often pre-trained on extensive datasets, they are limited by a specific context window, hindering their ability to model longer data dependencies.  Enhancing their capacity to longer dependency is not trivial: expanding the modeling window during pre-training can be resource-intensive, and adjusting it during continuous downstream training can be a challenging task.
 
 However,enhancing a language model's capacity to efficiently handle larger contexts is crucial. Such advancements could facilitate richer interactions with the model through expanded prompt examples, enhancing in-context learning; improve the comprehensiveness of LM-based chatbots by understanding extensive user interactions or maintaining a more extended user interaction history; offer high-quality summaries of lengthy documents, alleviating human efforts in reading extensive texts; and provide valuable insights in sectors like healthcare, where capturing a broader context (like a patient's extensive visit logs) can paint a comprehensive picture of their health.
@@ -104,15 +103,15 @@ We intend to hold 5 talks and 1 panel session. Please stay tuned!
             <p><a href="https://victorwz.github.io">Weizhi Wang</a>
             <br>University of California Santa Barbara</p>
         </div>
-        <div class="team-member">
-            <img src="/assets/img/organizers/niloofar_mireshghallah.jpg" alt="Name 3">
-            <p><a href="https://cseweb.ucsd.edu/~fmireshg/">Fatemeh Mireshghallah</a>
-            <br>University of Washington</p>
-        </div>
-        <div class="team-member">
-            <img src="/assets/img/organizers/szymon_tworkowski.jpg" alt="Name 4">
+            <div class="team-member">
+            <img src="/assets/img/organizers/szymon_tworkowski.jpg" alt="Name 3">
             <p><a href="https://syzymon.github.io/">Szymon Tworkowski</a>
             <br>University of Warsaw</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/niloofar_mireshghallah.jpg" alt="Name 4">
+            <p><a href="https://cseweb.ucsd.edu/~fmireshg/">Fatemeh Mireshghallah</a>
+            <br>University of Washington</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/yu_wang.jpg" alt="Name 5">
@@ -131,23 +130,23 @@ We intend to hold 5 talks and 1 panel session. Please stay tuned!
             <p><a href="https://yuandong-tian.com/">Yuandong Tian</a>
             <br>Meta AI</p>
         </div>
-        <div class="team-member">
+        <!-- <div class="team-member">
             <img src="/assets/img/organizers/julian_mcauley.png" alt="Name 2">
             <p><a href="https://cseweb.ucsd.edu/~jmcauley/">Julian McAuley</a>
             <br>University of California San Diego</p>
-        </div>
+        </div> -->
         <div class="team-member">
-            <img src="/assets/img/organizers/zhou_yu.jpg" alt="Name 3">
+            <img src="/assets/img/organizers/zhou_yu.jpg" alt="Name 2">
             <p><a href="https://www.cs.columbia.edu/~zhouyu/">Zhou Yu</a>
             <br>Columbia University</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/taylor_berg_kirkpatrick.jpeg" alt="Name 4">
+            <img src="/assets/img/organizers/taylor_berg_kirkpatrick.jpeg" alt="Name 3">
             <p><a href="https://cseweb.ucsd.edu/~tberg/">Taylor Berg-Kirkpatrick</a>
             <br>University of California San Diego</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/rogerio_schmidt_feris.webp" alt="Name 5">
+            <img src="/assets/img/organizers/rogerio_schmidt_feris.webp" alt="Name 4">
             <p><a href="https://cseweb.ucsd.edu/~tberg/">Rogerio Schmidt Feris</a>
             <br>MIT-IBM Watson AI lab</p>
         </div>
