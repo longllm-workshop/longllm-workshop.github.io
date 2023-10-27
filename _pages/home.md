@@ -119,7 +119,7 @@ We intend to hold 5 talks and 1 panel session. Please stay tuned!
             <br>University of California San Diego</p>
         </div>
         <br>
-        <div>
+        <div class="team-member">
             <img src="/assets/img/organizers/beidi_chen.jpeg" alt="Name 1">
             <p><a href="https://www.andrew.cmu.edu/user/beidic/">Prof. Beidi Chen</a>
             <br>Carnegie Mellon University</p>
