@@ -49,28 +49,28 @@ nav_order: 3
 <html>
     <div class="team-container">
         <div class="team-member">
-            <img src="/assets/img/organizers/yuandong_tian.png" alt="Name 1">
-            <p><a href="https://yuandong-tian.com/">Yuandong Tian</a>
-            <br>Meta AI</p>
-        </div>
-        <div class="team-member">
-            <img src="/assets/img/organizers/zhou_yu.jpg" alt="Name 2">
-            <p><a href="https://www.cs.columbia.edu/~zhouyu/">Zhou Yu</a>
+            <img src="/assets/img/organizers/zhou_yu.jpg" alt="Name 1">
+            <p><a href="https://www.cs.columbia.edu/~zhouyu/">Prof. Zhou Yu</a>
             <br>Columbia University</p>
         </div>
         <div class="team-member">
+            <img src="/assets/img/organizers/yuandong_tian.png" alt="Name 2">
+            <p><a href="https://yuandong-tian.com/">Dr. Yuandong Tian</a>
+            <br>Meta AI</p>
+        </div>
+        <div class="team-member">
             <img src="/assets/img/organizers/beidi_chen.jpeg" alt="Name 3">
-            <p><a href="https://www.andrew.cmu.edu/user/beidic/">Beidi Chen</a>
+            <p><a href="https://www.andrew.cmu.edu/user/beidic/">Prof. Beidi Chen</a>
             <br>Carnegie Mellon University</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/taylor_berg_kirkpatrick.jpeg" alt="Name 4">
-            <p><a href="https://cseweb.ucsd.edu/~tberg/">Taylor Berg-Kirkpatrick</a>
-            <br>University of California San Diego</p>
+            <img src="/assets/img/organizers/yoon_kim.jpeg" alt="Name 4">
+            <p><a href="https://people.csail.mit.edu/yoonkim/">Prof. Yoon Kim</a>
+            <br>MIT CSAIL</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/rogerio_schmidt_feris.webp" alt="Name 5">
-            <p><a href="https://cseweb.ucsd.edu/~tberg/">Rogerio Schmidt Feris</a>
+            <p><a href="https://cseweb.ucsd.edu/~tberg/">Prof. Rogerio Schmidt Feris</a>
             <br>MIT-IBM Watson AI lab</p>
         </div>
     </div>
