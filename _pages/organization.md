@@ -33,7 +33,7 @@ nav_order: 3
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/niloofar_mireshghallah.jpg" alt="Name 4">
-            <p><a href="https://cseweb.ucsd.edu/~fmireshg/">Fatemeh Mireshghallah</a>
+            <p><a href="https://cseweb.ucsd.edu/~fmireshg/">Dr. Fatemeh Mireshghallah</a>
             <br>University of Washington</p>
         </div>
         <div class="team-member">
