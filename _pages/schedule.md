@@ -25,7 +25,7 @@ _:warning: This is a tentative schedule, the organizers are still finializing th
 | 12:00-13:30 | Lunck Break  |
 | 13:30-14:00 | Invited Talk 5 |
 | 14:00-14:30 | Oral session: contributed talks of accepted papers |
-| 14:30-15:00 | Coffee Break/Social Events  |
-| 15:00-15:30 | Panel Discussion |
-| 15:30-16:50 | Poster Session |
-| 16:50-17:00 | Closing Remarks |
+| 14:30-15:10 | Coffee Break/Social Events  |
+| 15:10-16:10 | Panel Discussion |
+| 16:20-17:20 | Poster Session |
+| 17:20-17:30 | Closing Remarks |
