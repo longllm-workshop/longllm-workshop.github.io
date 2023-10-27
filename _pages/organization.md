@@ -49,29 +49,29 @@ nav_order: 3
 <html>
     <div class="team-container">
         <div class="team-member">
-            <img src="/assets/img/organizers/zhou_yu.jpg" alt="Name 1">
-            <p><a href="https://www.cs.columbia.edu/~zhouyu/">Prof. Zhou Yu</a>
-            <br>Columbia University</p>
-        </div>
-        <div class="team-member">
-            <img src="/assets/img/organizers/yuandong_tian.png" alt="Name 2">
-            <p><a href="https://yuandong-tian.com/">Dr. Yuandong Tian</a>
-            <br>Meta AI</p>
-        </div>
-        <div class="team-member">
-            <img src="/assets/img/organizers/beidi_chen.jpeg" alt="Name 3">
+            <img src="/assets/img/organizers/beidi_chen.jpeg" alt="Name 1">
             <p><a href="https://www.andrew.cmu.edu/user/beidic/">Prof. Beidi Chen</a>
             <br>Carnegie Mellon University</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/yoon_kim.jpeg" alt="Name 4">
+            <img src="/assets/img/organizers/yoon_kim.jpeg" alt="Name 2">
             <p><a href="https://people.csail.mit.edu/yoonkim/">Prof. Yoon Kim</a>
             <br>MIT CSAIL</p>
         </div>
         <div class="team-member">
+            <img src="/assets/img/organizers/zhou_yu.jpg" alt="Name 3">
+            <p><a href="https://www.cs.columbia.edu/~zhouyu/">Prof. Zhou Yu</a>
+            <br>Columbia University</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/yuandong_tian.png" alt="Name 4">
+            <p><a href="https://yuandong-tian.com/">Dr. Yuandong Tian</a>
+            <br>Meta AI</p>
+        </div>
+        <div class="team-member">
             <img src="/assets/img/organizers/rogerio_schmidt_feris.webp" alt="Name 5">
             <p><a href="https://cseweb.ucsd.edu/~tberg/">Prof. Rogerio Schmidt Feris</a>
-            <br>MIT-IBM Watson AI lab</p>
+            <br>MIT-IBM Watson AI Lab</p>
         </div>
     </div>
 </html>
